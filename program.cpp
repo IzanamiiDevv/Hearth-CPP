@@ -3,7 +3,10 @@
 using namespace std;
 
 void hearth(int size){
+    std::cout << "Result:" << std::endl;
+    std::cout << "---------------------" << std::endl;
     
+    std::cout << "---------------------" << std::endl;
 }
 
 int main(){
