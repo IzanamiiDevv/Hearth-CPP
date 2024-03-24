@@ -38,7 +38,7 @@ void hearth(int size){
 
 int main(){
     int size;
-    std::cout << "Write the size og the hearth" << std::endl;
+    std::cout << "Write the size og the hearth: ";
     std::cin >> size;
     hearth(size); 
     return 0;
